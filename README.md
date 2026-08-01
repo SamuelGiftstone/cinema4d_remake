@@ -1,16 +1,28 @@
-# cad_engine_software
+Flutter 3D Editor (Cinema 4D Inspired)
 
-A new Flutter project.
+Build a professional desktop 3D editor using Flutter.
 
-## Getting Started
+This project is inspired by the workflow of Cinema 4D while implementing real editor functionality such as scene management, object manipulation, viewport interaction, and animation tools.
 
-This project is a starting point for a Flutter application.
+Current Features:
+Professional desktop interface
+Real-time 3D viewport
+Perspective camera
+Scene hierarchy
+Object selection
+Primitive objects
+Transform gizmos
+Attribute inspector
+Timeline foundation
+Workspace system
+Viewport controls
+Dark desktop theme
+Planned Features
+Undo/Redo
+Mesh editing
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Technologies:
+Flutter
+Dart
+Dart 3d scene
+Custom rendering pipeline
